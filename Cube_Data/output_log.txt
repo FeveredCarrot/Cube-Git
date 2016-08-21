@@ -18,7 +18,7 @@ Platform assembly: C:\Users\jaspe\Documents\Cube Game\Cube_Data\Managed\UnityEng
 Loading C:\Users\jaspe\Documents\Cube Game\Cube_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
 Platform assembly: C:\Users\jaspe\Documents\Cube Game\Cube_Data\Managed\Photon3Unity3D.dll (this message is harmless)
 Loading C:\Users\jaspe\Documents\Cube Game\Cube_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
-- Completed reload, in  0.154 seconds
+- Completed reload, in  0.152 seconds
 Platform assembly: C:\Users\jaspe\Documents\Cube Game\Cube_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\jaspe\Documents\Cube Game\Cube_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 3600x1255 at 0,0
