@@ -18,9 +18,23 @@ Platform assembly: C:\Users\jaspe\Documents\Cube Game\Cube_Data\Managed\UnityEng
 Loading C:\Users\jaspe\Documents\Cube Game\Cube_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
 Platform assembly: C:\Users\jaspe\Documents\Cube Game\Cube_Data\Managed\Photon3Unity3D.dll (this message is harmless)
 Loading C:\Users\jaspe\Documents\Cube Game\Cube_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
-- Completed reload, in  0.152 seconds
+- Completed reload, in  0.173 seconds
 Platform assembly: C:\Users\jaspe\Documents\Cube Game\Cube_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\jaspe\Documents\Cube Game\Cube_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 3600x1255 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.653849 ms
+Setting up 3 worker threads for Enlighten.
+  Thread -> id: 70dc -> priority: 1 
+  Thread -> id: 94cc -> priority: 1 
+  Thread -> id: 9cfc -> priority: 1 
+20
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+20
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
