@@ -2,9 +2,9 @@ Mono path[0] = 'C:/Users/jaspe/Documents/Cube Game/Cube_Data/Managed'
 Mono path[1] = 'C:/Users/jaspe/Documents/Cube Game/Cube_Data/Mono'
 Mono config path = 'C:/Users/jaspe/Documents/Cube Game/Cube_Data/Mono/etc'
 PlayerConnection initialized from C:/Users/jaspe/Documents/Cube Game/Cube_Data (debug = 0)
-PlayerConnection initialized network socket : 0.0.0.0 55471
-Multi-casting "[IP] 192.168.1.144 [Port] 55471 [Flags] 2 [Guid] 4091136179 [EditorId] 2467421494 [Version] 1048832 [Id] WindowsPlayer(Jasper-Thing) [Debug] 0" to [225.0.0.222:54997]...
-PlayerConnection already initialized - listening to [192.168.1.144:55471]
+PlayerConnection initialized network socket : 0.0.0.0 55372
+Multi-casting "[IP] 192.168.1.144 [Port] 55372 [Flags] 2 [Guid] 781755348 [EditorId] 1951352857 [Version] 1048832 [Id] WindowsPlayer(Jasper-Thing) [Debug] 0" to [225.0.0.222:54997]...
+PlayerConnection already initialized - listening to [192.168.1.144:55372]
 Initialize engine version: 5.4.0p4 (b15b5ae035b7)
 GfxDevice: creating device client; threaded=1
 Direct3D:
@@ -25,7 +25,7 @@ Platform assembly: C:\Users\jaspe\Documents\Cube Game\Cube_Data\Managed\UnityEng
 Loading C:\Users\jaspe\Documents\Cube Game\Cube_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
 Platform assembly: C:\Users\jaspe\Documents\Cube Game\Cube_Data\Managed\Photon3Unity3D.dll (this message is harmless)
 Loading C:\Users\jaspe\Documents\Cube Game\Cube_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
-- Completed reload, in  0.042 seconds
+- Completed reload, in  0.171 seconds
 Platform assembly: C:\Users\jaspe\Documents\Cube Game\Cube_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\jaspe\Documents\Cube Game\Cube_Data\Managed\System.dll (this message is harmless)
 OnLevelWasLoaded was found on PhotonHandler
@@ -37,9 +37,3 @@ Add a delegate to SceneManager.sceneLoaded instead to get notifications after sc
 desktop: 1920x1080 60Hz; virtual: 3600x1255 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
-<RI> Initialized touch support.
-UnloadTime: 0.979116 ms
-Setting up 3 worker threads for Enlighten.
-  Thread -> id: a030 -> priority: 1 
-  Thread -> id: 8b74 -> priority: 1 
-  Thread -> id: 3740 -> priority: 1 
